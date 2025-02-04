@@ -20,7 +20,7 @@ Execute os scripts no Oracle Live SQL ou em um ambiente Oracle configurado local
 - Banco de dados Oracle instalado ou acesso ao Oracle Live SQL.
 - Cliente SQL compatível (SQL*Plus, SQL Developer, DBeaver, etc.).
 
-/n/n
-🔹 Autor: Beatriz Pimenta
+\
+🔹 Autor: Beatriz Pimenta \
 🔹 Contato: https://www.linkedin.com/in/beatrizovpimenta/ 
 
