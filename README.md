@@ -11,7 +11,7 @@ Este repositório contém scripts SQL desenvolvidos para uso no banco de dados O
 
 ## 🚀 Como Usar
 Clone este repositório:
-git clone https://github.com/seu-usuario/scripts-sql-oracle.git
+git clone https://github.com/BeatrizOliveiraPimenta/Projeto1-sql-oracle.git
 
 Acesse o diretório do projeto:
 cd scripts-sql-oracle
